@@ -100,18 +100,15 @@ The methodological finding matters more. One answer contained \Ndashchar{}
 occurrences of U+2011, a non-breaking hyphen that renders identically to ASCII.
 The extraction pattern silently truncated \Ntrunc{} names at that character:
 \texttt{pandas-profiling} became \texttt{pandas}. The published total survived
-only because every truncated fragment happened to carry the same registry
-verdict; two different outcomes would have doubled the reported rate. We give
-the corrected rate and the validation steps that would have caught the fault.
+only because every truncated fragment carried the same registry verdict; two
+different outcomes would have doubled the reported rate.
 
-Two further measurement choices move the headline as much as the model does.
-The unit of analysis is one: the same \Nhall{} events give \Rate\% per
-recommended name and \UPromptrate\% per answer, a factor of \URatio, and a
-bootstrap that resamples answers rather than names admits zero into the
-interval. The characterisation of the suggestion distribution is the other:
-its evenness is \SEven\% of maximum and both invented names occur exactly once,
-so an attacker who pre-registered both would have intercepted \Rate\% of
-recommendations and no more, with no repetition multiplier to apply.
+Two further choices move the headline as much as the model does. The same
+\Nhall{} events give \Rate\% per recommended name and \UPromptrate\% per
+answer, a factor of \URatio, and a bootstrap over answers rather than names
+admits zero into the interval. Both invented names occur exactly once, so an
+attacker who pre-registered both would have intercepted \Rate\% of
+recommendations and no more.
 \end{abstract}
 
 \begin{keyword}
@@ -1087,10 +1084,12 @@ released with the paper, together with the analysis scripts that produce every
 number and figure in it. Registry verdicts are timestamped, because they are
 observations of a mutable namespace rather than constants.
 
-The artefact (result files, generator scripts and \LaTeX{} sources) is not
-publicly posted at the time of submission. We will deposit it in a public
-repository under a persistent identifier upon acceptance, and we can supply it
-to the editorial office at any point during review.
+The artefact (result files, generator scripts and \LaTeX{} sources) is publicly
+available at \url{https://github.com/vithamchoi/package-hallucination-invisible-characters}, where the commit that
+produced this version is tagged \texttt{v1.0.0}. Re-running the generators in
+\path{latex/} against \path{results/} regenerates every table, figure and
+inline number in this paper. The same artefact will be deposited in a public
+archive under a persistent identifier.
 
 \bibliographystyle{elsarticle-num}
 \bibliography{refs}
