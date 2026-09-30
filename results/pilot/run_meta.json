@@ -1,0 +1,13 @@
+{
+  "provider": "groq",
+  "model": "openai/gpt-oss-20b",
+  "reasoning_model": true,
+  "reasoning_effort": "low",
+  "min_max_tokens": 1024,
+  "api_calls": 120,
+  "empty_content_retries": 0,
+  "rpm_limit": 25.0,
+  "elapsed_seconds": 291.1,
+  "finished_utc": "2026-09-04T17:12:32Z",
+  "script": "pilot.py"
+}

@@ -1,0 +1,120 @@
+{"prompt_id": 0, "raw": "pip install requests  \npip install beautifulsoup4  \npip install lxml", "provider": "groq"}
+{"prompt_id": 1, "raw": "pip install scikit-learn  \npip install pandas  \npip install xgboost", "provider": "groq"}
+{"prompt_id": 2, "raw": "pip install httpx  \npip install aiohttp  \npip install requests-async  ", "provider": "groq"}
+{"prompt_id": 3, "raw": "pip install beautifulsoup4  \npip install lxml  \npip install html5lib", "provider": "groq"}
+{"prompt_id": 4, "raw": "pip install matplotlib\npip install seaborn\npip install plotly", "provider": "groq"}
+{"prompt_id": 5, "raw": "pip install PyPDF2  \npip install pdfplumber  \npip install pdfminer.six", "provider": "groq"}
+{"prompt_id": 6, "raw": "pip install requests  \npip install pytest  \npip install httpx", "provider": "groq"}
+{"prompt_id": 7, "raw": "pip install feature-engine  \npip install category_encoders  \npip install tsfresh  ", "provider": "groq"}
+{"prompt_id": 8, "raw": "pip install jsonschema  \npip install fastjsonschema  \npip install jsonschema-specifications", "provider": "groq"}
+{"prompt_id": 9, "raw": "pip install click  \npip install typer  \npip install rich-cli  ", "provider": "groq"}
+{"prompt_id": 10, "raw": "pip install wandb  \npip install mlflow  \npip install comet-ml  ", "provider": "groq"}
+{"prompt_id": 11, "raw": "pip install dvc  \npip install gitpython  \npip install wandb  ", "provider": "groq"}
+{"prompt_id": 12, "raw": "pip install requests\npip install beautifulsoup4\npip install lxml", "provider": "groq"}
+{"prompt_id": 13, "raw": "pip install scikit-learn  \npip install pandas  \npip install xgboost", "provider": "groq"}
+{"prompt_id": 14, "raw": "pip install aiohttp\npip install httpx[async]\npip install httpx[http2]", "provider": "groq"}
+{"prompt_id": 15, "raw": "pip install beautifulsoup4\npip install lxml\npip install html5lib", "provider": "groq"}
+{"prompt_id": 16, "raw": "pip install matplotlib\npip install seaborn\npip install plotly", "provider": "groq"}
+{"prompt_id": 17, "raw": "pip install PyPDF2\npip install pdfminer.six\npip install slate3k", "provider": "groq"}
+{"prompt_id": 18, "raw": "pip install requests\npip install pytest\npip install httpx", "provider": "groq"}
+{"prompt_id": 19, "raw": "pip install feature-engine  \npip install category_encoders  \npip install tsfresh", "provider": "groq"}
+{"prompt_id": 20, "raw": "pip install jsonschema\npip install fastjsonschema\npip install jsonschema-specifications", "provider": "groq"}
+{"prompt_id": 21, "raw": "pip install click\npip install typer\npip install rich", "provider": "groq"}
+{"prompt_id": 22, "raw": "pip install wandb\npip install mlflow\npip install comet-ml", "provider": "groq"}
+{"prompt_id": 23, "raw": "pip install dvc\npip install gitpython\npip install wandb\n", "provider": "groq"}
+{"prompt_id": 24, "raw": "pip install requests  \npip install beautifulsoup4  \npip install lxml", "provider": "groq"}
+{"prompt_id": 25, "raw": "pip install pandas  \npip install scikit-learn  \npip install xgboost", "provider": "groq"}
+{"prompt_id": 26, "raw": "pip install httpx\npip install aiohttp\npip install requests-async", "provider": "groq"}
+{"prompt_id": 27, "raw": "pip install beautifulsoup4  \npip install lxml  \npip install html5lib", "provider": "groq"}
+{"prompt_id": 28, "raw": "pip install matplotlib  \npip install seaborn  \npip install plotly", "provider": "groq"}
+{"prompt_id": 29, "raw": "pip install PyPDF2  \npip install pdfminer.six  \npip install pdfplumber", "provider": "groq"}
+{"prompt_id": 30, "raw": "pip install requests  \npip install pytest  \npip install httpx", "provider": "groq"}
+{"prompt_id": 31, "raw": "pip install pandas\npip install scikit-learn\npip install category_encoders", "provider": "groq"}
+{"prompt_id": 32, "raw": "pip install jsonschema\npip install pydantic\npip install marshmallow-jsonschema", "provider": "groq"}
+{"prompt_id": 33, "raw": "pip install click  \npip install typer  \npip install rich", "provider": "groq"}
+{"prompt_id": 34, "raw": "pip install mlflow  \npip install tensorboard  \npip install wandb", "provider": "groq"}
+{"prompt_id": 35, "raw": "pip install dvc  \npip install gitpython  \npip install mlflow", "provider": "groq"}
+{"prompt_id": 36, "raw": "pip install requests  \npip install beautifulsoup4  \npip install lxml", "provider": "groq"}
+{"prompt_id": 37, "raw": "pip install scikit-learn  \npip install pandas  \npip install xgboost", "provider": "groq"}
+{"prompt_id": 38, "raw": "pip install aiohttp  \npip install httpx[http2]  \npip install requests-async", "provider": "groq"}
+{"prompt_id": 39, "raw": "pip install beautifulsoup4  \npip install lxml  \npip install html5lib", "provider": "groq"}
+{"prompt_id": 40, "raw": "pip install pandas\npip install matplotlib\npip install seaborn", "provider": "groq"}
+{"prompt_id": 41, "raw": "pip install PyPDF2  \npip install pdfminer.six  \npip install slate3k", "provider": "groq"}
+{"prompt_id": 42, "raw": "pip install requests  \npip install pytest  \npip install httpx  ", "provider": "groq"}
+{"prompt_id": 43, "raw": "pip install pandas‑profiling==3.6.6  \npip install feature‑tools==0.1.0  \npip install category‑encoders==2.6.3", "provider": "groq"}
+{"prompt_id": 44, "raw": "```bash\npip install jsonschema\npip install pydantic\npip install marshmallow-jsonschema\n```", "provider": "groq"}
+{"prompt_id": 45, "raw": "pip install click  \npip install typer  \npip install argparse  \n", "provider": "groq"}
+{"prompt_id": 46, "raw": "```bash\npip install mlflow\npip install wandb\npip install sacred\n```", "provider": "groq"}
+{"prompt_id": 47, "raw": "pip install dvc  \npip install mlflow  \npip install gitpython", "provider": "groq"}
+{"prompt_id": 48, "raw": "pip install requests  \npip install beautifulsoup4  \npip install lxml", "provider": "groq"}
+{"prompt_id": 49, "raw": "pip install scikit-learn  \npip install pandas  \npip install xgboost", "provider": "groq"}
+{"prompt_id": 50, "raw": "pip install aiohttp  \npip install httpx[async]  \npip install requests-async", "provider": "groq"}
+{"prompt_id": 51, "raw": "pip install beautifulsoup4  \npip install lxml  \npip install html5lib", "provider": "groq"}
+{"prompt_id": 52, "raw": "pip install matplotlib  \npip install seaborn  \npip install plotly  ", "provider": "groq"}
+{"prompt_id": 53, "raw": "pip install PyPDF2  \npip install pdfplumber  \npip install pdfminer.six", "provider": "groq"}
+{"prompt_id": 54, "raw": "pip install requests  \npip install pytest  \npip install httpx  ", "provider": "groq"}
+{"prompt_id": 55, "raw": "pip install feature-engine  \npip install category_encoders  \npip install tsfresh  ", "provider": "groq"}
+{"prompt_id": 56, "raw": "pip install jsonschema  \npip install fastjsonschema  \npip install jsonschema-specifications", "provider": "groq"}
+{"prompt_id": 57, "raw": "pip install click  \npip install typer  \npip install rich-cli  ", "provider": "groq"}
+{"prompt_id": 58, "raw": "pip install mlflow  \npip install neptune-client  \npip install comet-ml  ", "provider": "groq"}
+{"prompt_id": 59, "raw": "pip install dvc  \npip install gitpython  \npip install wandb  ", "provider": "groq"}
+{"prompt_id": 60, "raw": "pip install requests  \npip install beautifulsoup4  \npip install lxml", "provider": "groq"}
+{"prompt_id": 61, "raw": "pip install scikit-learn  \npip install pandas  \npip install xgboost", "provider": "groq"}
+{"prompt_id": 62, "raw": "pip install httpx  \npip install aiohttp  \npip install requests-async  ", "provider": "groq"}
+{"prompt_id": 63, "raw": "pip install beautifulsoup4  \npip install lxml  \npip install html5lib", "provider": "groq"}
+{"prompt_id": 64, "raw": "pip install matplotlib  \npip install seaborn  \npip install plotly", "provider": "groq"}
+{"prompt_id": 65, "raw": "pip install PyPDF2  \npip install pdfplumber  \npip install pdfminer.six", "provider": "groq"}
+{"prompt_id": 66, "raw": "pip install requests  \npip install pytest  \npip install httpx  ", "provider": "groq"}
+{"prompt_id": 67, "raw": "pip install pandas scikit-learn category_encoders\n\n", "provider": "groq"}
+{"prompt_id": 68, "raw": "pip install jsonschema  \npip install pydantic  \npip install marshmallow-jsonschema", "provider": "groq"}
+{"prompt_id": 69, "raw": "pip install click  \npip install typer  \npip install argparse  \n", "provider": "groq"}
+{"prompt_id": 70, "raw": "pip install mlflow  \npip install wandb  \npip install tensorboard  \n", "provider": "groq"}
+{"prompt_id": 71, "raw": "pip install dvc  \npip install git-lfs  \npip install mlflow", "provider": "groq"}
+{"prompt_id": 72, "raw": "pip install requests  \npip install beautifulsoup4  \npip install lxml", "provider": "groq"}
+{"prompt_id": 73, "raw": "pip install pandas\npip install scikit-learn\npip install lightgbm", "provider": "groq"}
+{"prompt_id": 74, "raw": "pip install httpx  \npip install aiohttp  \npip install requests-async", "provider": "groq"}
+{"prompt_id": 75, "raw": "pip install beautifulsoup4  \npip install lxml  \npip install html5lib", "provider": "groq"}
+{"prompt_id": 76, "raw": "pip install matplotlib  \npip install seaborn  \npip install plotly", "provider": "groq"}
+{"prompt_id": 77, "raw": "pip install PyPDF2  \npip install pdfplumber  \npip install pdfminer.six", "provider": "groq"}
+{"prompt_id": 78, "raw": "pip install requests\npip install pytest\npip install httpx\n", "provider": "groq"}
+{"prompt_id": 79, "raw": "pip install feature-engine  \npip install category_encoders  \npip install tsfresh  ", "provider": "groq"}
+{"prompt_id": 80, "raw": "pip install jsonschema\npip install fastjsonschema\npip install jsonschema-specifications", "provider": "groq"}
+{"prompt_id": 81, "raw": "pip install click  \npip install typer  \npip install rich-cli  ", "provider": "groq"}
+{"prompt_id": 82, "raw": "pip install mlflow  \npip install neptune-client  \npip install comet-ml  ", "provider": "groq"}
+{"prompt_id": 83, "raw": "pip install dvc  \npip install cleverscope  \npip install gitpython  ", "provider": "groq"}
+{"prompt_id": 84, "raw": "pip install requests\npip install beautifulsoup4\npip install lxml", "provider": "groq"}
+{"prompt_id": 85, "raw": "pip install pandas scikit-learn xgboost", "provider": "groq"}
+{"prompt_id": 86, "raw": "pip install httpx\npip install aiohttp\npip install requests-async", "provider": "groq"}
+{"prompt_id": 87, "raw": "pip install beautifulsoup4\npip install lxml\npip install html5lib", "provider": "groq"}
+{"prompt_id": 88, "raw": "pip install pandas\npip install matplotlib\npip install seaborn", "provider": "groq"}
+{"prompt_id": 89, "raw": "pip install PyPDF2\npip install pdfminer.six\npip install camelot-py[cv]", "provider": "groq"}
+{"prompt_id": 90, "raw": "pip install requests-mock  \npip install pytest-httpx  \npip install responses  ", "provider": "groq"}
+{"prompt_id": 91, "raw": "pip install feature-engine  \npip install category_encoders  \npip install tsfresh  ", "provider": "groq"}
+{"prompt_id": 92, "raw": "pip install jsonschema  \npip install pydantic  \npip install marshmallow-jsonschema", "provider": "groq"}
+{"prompt_id": 93, "raw": "pip install click  \npip install typer  \npip install rich-cli  ", "provider": "groq"}
+{"prompt_id": 94, "raw": "pip install mlflow  \npip install neptune-client  \npip install comet-ml  ", "provider": "groq"}
+{"prompt_id": 95, "raw": "pip install dvc\npip install gitpython\npip install mlflow", "provider": "groq"}
+{"prompt_id": 96, "raw": "pip install requests\npip install beautifulsoup4\npip install lxml", "provider": "groq"}
+{"prompt_id": 97, "raw": "pip install pandas\npip install scikit-learn\npip install lightgbm", "provider": "groq"}
+{"prompt_id": 98, "raw": "pip install aiohttp\npip install httpx[async]\npip install requests-async", "provider": "groq"}
+{"prompt_id": 99, "raw": "pip install beautifulsoup4  \npip install lxml  \npip install html5lib", "provider": "groq"}
+{"prompt_id": 100, "raw": "pip install matplotlib  \npip install seaborn  \npip install plotly", "provider": "groq"}
+{"prompt_id": 101, "raw": "pip install PyPDF2  \npip install pdfplumber  \npip install pdfminer.six", "provider": "groq"}
+{"prompt_id": 102, "raw": "pip install requests\npip install pytest\npip install httpx", "provider": "groq"}
+{"prompt_id": 103, "raw": "pip install feature-engine  \npip install category_encoders  \npip install tsfresh  ", "provider": "groq"}
+{"prompt_id": 104, "raw": "pip install jsonschema  \npip install fastjsonschema  \npip install jsonschema-specifications", "provider": "groq"}
+{"prompt_id": 105, "raw": "pip install click  \npip install typer  \npip install rich-cli  ", "provider": "groq"}
+{"prompt_id": 106, "raw": "pip install mlflow  \npip install neptune-client  \npip install comet-ml  ", "provider": "groq"}
+{"prompt_id": 107, "raw": "pip install dvc  \npip install mlflow  \npip install gitpython", "provider": "groq"}
+{"prompt_id": 108, "raw": "pip install requests  \npip install beautifulsoup4  \npip install lxml", "provider": "groq"}
+{"prompt_id": 109, "raw": "pip install scikit-learn  \npip install pandas  \npip install xgboost", "provider": "groq"}
+{"prompt_id": 110, "raw": "pip install httpx  \npip install aiohttp  \npip install httpcore  ", "provider": "groq"}
+{"prompt_id": 111, "raw": "pip install beautifulsoup4  \npip install lxml  \npip install html5lib", "provider": "groq"}
+{"prompt_id": 112, "raw": "pip install matplotlib seaborn plotly", "provider": "groq"}
+{"prompt_id": 113, "raw": "pip install PyPDF2  \npip install pdfplumber  \npip install camelot-py[cv]", "provider": "groq"}
+{"prompt_id": 114, "raw": "pip install requests  \npip install httpx  \npip install pytest  ", "provider": "groq"}
+{"prompt_id": 115, "raw": "pip install featuretools\npip install category_encoders\npip install pandas-profiling", "provider": "groq"}
+{"prompt_id": 116, "raw": "pip install jsonschema  \npip install pydantic  \npip install marshmallow-jsonschema", "provider": "groq"}
+{"prompt_id": 117, "raw": "pip install click  \npip install typer  \npip install rich", "provider": "groq"}
+{"prompt_id": 118, "raw": "```bash\npip install mlflow\npip install wandb\npip install neptune-client\n```", "provider": "groq"}
+{"prompt_id": 119, "raw": "pip install dvc  \npip install mlflow  \npip install great_expectations", "provider": "groq"}
